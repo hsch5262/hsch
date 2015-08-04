@@ -1,6 +1,6 @@
 package aaa;
 
 public class test {
-	int test;
+	int testsdfdsf;
 	int testddddd2;
 }
