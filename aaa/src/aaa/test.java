@@ -2,5 +2,5 @@ package aaa;
 
 public class test {
 	int test;
-	int test2;
+	int testddddd2;
 }
